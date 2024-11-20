@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat";
+    list-style: none;
+    color: antiquewhite;
+}
+
+footer{
+    width: 100%;
+    height: 300px;
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    padding: 10px 15px 20px 15px;
+    margin-top: 20px;
+}
+
+.first{
+    flex: 30%;
+   
+
+}
+
+.second,.third,.fourth,.fifth{
+    flex: 17.5%;
+    
+}
+
+h3{
+   margin-bottom: 20px;
+   
+text-decoration: none;
+text-align: center;
+
+}
+ footer .first img{
+
+}
+footer .first p{
+
+}
+
+footer .second ul li a:hover{
+     color: red;
+}
+
+footer .second ul li a:active{ 
+    color: orange;
+}
+
+
+
+
+
+
+
